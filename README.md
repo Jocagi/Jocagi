@@ -28,8 +28,8 @@ public class Me
 ## 💻 My stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jocagi" alt="jocagi" /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Jocagi&hide=issues&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
-[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jocagi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Jocagi&hide=issues&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jocagi&layout=compact&theme=vision-friendly-dark&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jocagi/Jocagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
