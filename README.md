@@ -2,8 +2,8 @@
 
 ## 👾 About me
 
-<img src="https://avatars2.githubusercontent.com/u/42883411?s=400&u=bbb16a320815b3d943db7920a8f941025396ae33&v=4" width="180px">
-<em><b>I am a bird in disguise.</em>
+<img src="https://avatars2.githubusercontent.com/u/42883411?s=400&u=bbb16a320815b3d943db7920a8f941025396ae33&v=4" width="230px" align="right">
+<p align="right"><em><b>I am a bird in disguise.</em></p>
 
 ```csharp
 public class Me
