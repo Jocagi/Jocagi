@@ -31,6 +31,10 @@ public class Me
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Jocagi&hide=issues&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
 [![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jocagi&layout=compact&theme=vision-friendly-dark&count_private=true&show_icons=true&hide_title=false&include_all_commits=true&langs_count=8&hide=Scilab&exclude_repo=EDI,microSQL,Nand2Tetris)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **Jocagi/Jocagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
