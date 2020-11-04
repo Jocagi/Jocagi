@@ -29,8 +29,9 @@ public class Me
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jocagi" alt="jocagi" /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Jocagi&hide=issues&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
-[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jocagi&layout=compact&theme=vision-friendly-dark&count_private=true&show_icons=true&hide_title=false&include_all_commits=true&langs_count=8&hide=Scilab&exclude_repo=EDI,microSQL,Nand2Tetris)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jocagi&layout=compact&theme=vision-friendly-dark&count_private=true&show_icons=true&hide_title=false&include_all_commits=true&langs_count=10&hide=Scilab&exclude_repo=EDI,microSQL,Nand2Tetris)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jocagi&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.3%20million%20lines%20of%20code-blue)
