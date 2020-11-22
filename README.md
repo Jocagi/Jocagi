@@ -45,10 +45,10 @@ public class Me
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 29 Public Repositories
+> 📜 31 Public Repositories
  > 
-> 🔑 3 Private Repositories 
-
+> 🔑 1 Private Repository 
+ > 
 **I'm a Night 🦉** 
 
 ```text
