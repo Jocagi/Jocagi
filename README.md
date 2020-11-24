@@ -110,7 +110,7 @@ TSQL                     3 repos             ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/Jocagi/Jocagi/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Jocagi/Jocagi/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
