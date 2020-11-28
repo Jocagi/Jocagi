@@ -39,7 +39,7 @@ public class Me
 
 **🐱 My Github Data** 
 
-> 📦 564.3 kB Used in Github's Storage 
+> 📦 565.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
