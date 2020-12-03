@@ -78,16 +78,16 @@ Sunday       56 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-JSON                     0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-user                     0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
