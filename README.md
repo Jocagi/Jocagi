@@ -45,9 +45,9 @@ public class Me
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 31 Public Repositories
+> 📜 31 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+31 Private Repository 
  > 
 **I'm a Night 🦉** 
 
