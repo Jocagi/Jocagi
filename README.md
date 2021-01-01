@@ -39,7 +39,7 @@ public class Me
 
 **🐱 My Github Data** 
 
-> 🏆 425 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 565.3 kB Used in Github's Storage 
  > 
