@@ -39,7 +39,7 @@ public class Me
 
 **🐱 My Github Data** 
 
-> 🏆 74 Contributions in the Year 2021
+> 🏆 75 Contributions in the Year 2021
  > 
 > 📦 573.0 kB Used in Github's Storage 
  > 
@@ -47,7 +47,7 @@ public class Me
  > 
 > 📜 36 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 2 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
