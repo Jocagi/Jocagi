@@ -41,7 +41,7 @@ public class Me
 
 > 🏆 79 Contributions in the Year 2021
  > 
-> 📦 573.1 kB Used in Github's Storage 
+> 📦 574.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
