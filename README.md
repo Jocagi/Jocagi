@@ -39,13 +39,13 @@ public class Me
 
 **🐱 My Github Data** 
 
-> 🏆 97 Contributions in the Year 2021
+> 🏆 98 Contributions in the Year 2021
  > 
 > 📦 574.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 36 Public Repositories 
+> 📜 37 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
