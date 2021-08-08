@@ -41,7 +41,7 @@ public class Me
 
 > 🏆 114 Contributions in the Year 2021
  > 
-> 📦 575.4 kB Used in Github's Storage 
+> 📦 575.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,7 +108,7 @@ Assembly                 3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Jocagi/Jocagi/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/08/2021
+ Last Updated on 08/08/2021
 <!--END_SECTION:waka-->
 
 <!--
