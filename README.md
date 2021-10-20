@@ -23,7 +23,23 @@ public class Me
 ---
 ## 💫 Skills
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p>
+<p align="left">
+
+  <img src="https://raw.githubusercontent.com/Jocagi/Jocagi/2b74ed2827188052c975751a6d4e0edcd234c9ca/assets/cplusplus.svg" alt="cplusplus" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/Jocagi/Jocagi/2b74ed2827188052c975751a6d4e0edcd234c9ca/assets/csharp.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Jocagi/Jocagi/2b74ed2827188052c975751a6d4e0edcd234c9ca/assets/dot-net.svg" alt="dotnet" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/Jocagi/Jocagi/2b74ed2827188052c975751a6d4e0edcd234c9ca/assets/git.svg" alt="git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/Jocagi/Jocagi/2b74ed2827188052c975751a6d4e0edcd234c9ca/assets/html5.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/Jocagi/Jocagi/2b74ed2827188052c975751a6d4e0edcd234c9ca/assets/java.svg" alt="java" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/Jocagi/Jocagi/2b74ed2827188052c975751a6d4e0edcd234c9ca/assets/javascript.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Jocagi/Jocagi/2b74ed2827188052c975751a6d4e0edcd234c9ca/assets/python.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Jocagi/Jocagi/2b74ed2827188052c975751a6d4e0edcd234c9ca/assets/mssql.svg" alt="sqlserver" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Jocagi/Jocagi/2b74ed2827188052c975751a6d4e0edcd234c9ca/assets/mysql.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Jocagi/Jocagi/2b74ed2827188052c975751a6d4e0edcd234c9ca/assets/postgresql.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Jocagi/Jocagi/2b74ed2827188052c975751a6d4e0edcd234c9ca/assets/postman.svg" alt="postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Jocagi/Jocagi/2b74ed2827188052c975751a6d4e0edcd234c9ca/assets/heroku.svg" alt="heroku" width="40" height="40"/>
+  
+</p>
 
 ## 💻 My stats
 
