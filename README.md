@@ -57,7 +57,7 @@ public class Me
 
 > 🏆 131 Contributions in the Year 2021
  > 
-> 📦 607.2 kB Used in GitHub's Storage 
+> 📦 606.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -130,7 +130,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Jocagi/Jocagi/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/11/2021
+ Last Updated on 29/11/2021
 <!--END_SECTION:waka-->
 
 <!--
