@@ -51,7 +51,7 @@ public class Me
 <br><p align="left"> <img src="https://komarev.com/ghpvc/?username=jocagi" alt="jocagi" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -126,7 +126,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Jocagi/Jocagi/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 12:27:13 UTC
+ Last Updated on 12/05/2022 12:26:50 UTC
 <!--END_SECTION:waka-->
 
 <!--
