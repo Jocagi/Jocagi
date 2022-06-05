@@ -96,16 +96,17 @@ Sunday       26 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       10 mins             █████████████░░░░░░░░░░░░   55.28% 
+Other                    8 mins              ███████████░░░░░░░░░░░░░░   44.72%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            19 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+aburrido                 19 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  19 mins             █████████████████████████   100.0%
 
 ```
 
@@ -126,7 +127,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Jocagi/Jocagi/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/06/2022 12:22:04 UTC
+ Last Updated on 05/06/2022 12:23:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
