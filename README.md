@@ -1,4 +1,4 @@
-<h1> Hello World! <img src="https://raw.githubusercontent.com/Jocagi/Jocagi/master/duck%20gif.gif" width="30px"> </h1>
+<h1> Hello World! <img src="https://raw.githubusercontent.com/Jocagi/Jocagi/master/duck%20gif.gif" width="30"> </h1>
 
 ## 👾 About me
 
