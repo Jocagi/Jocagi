@@ -96,16 +96,16 @@ Sunday       26 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -126,7 +126,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Jocagi/Jocagi/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/07/2022 12:29:24 UTC
+ Last Updated on 02/07/2022 12:22:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
