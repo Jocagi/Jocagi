@@ -96,21 +96,16 @@ Sunday       32 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-Terraform                2 hrs 39 mins       ███████████████████░░░░░░   77.68% 
-JavaScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
-TypeScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.05% 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 24 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-shift-emotion            3 hrs 7 mins        ███████████████████████░░   91.55% 
-my-app                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.45%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 24 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -131,7 +126,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Jocagi/Jocagi/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/07/2022 12:34:37 UTC
+ Last Updated on 19/07/2022 12:31:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
