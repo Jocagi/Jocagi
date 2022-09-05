@@ -51,7 +51,7 @@ public class Me
 <br><p align="left"> <img src="https://komarev.com/ghpvc/?username=jocagi" alt="jocagi" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2049%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30%20Million%20lines%20of%20code-blue)
 
@@ -67,6 +67,48 @@ public class Me
  > 
 > 🔑 1 Private Repository 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+🌆 Daytime    32 commits     ██████░░░░░░░░░░░░░░░░░░░   24.24% 
+🌃 Evening    77 commits     ██████████████░░░░░░░░░░░   58.33% 
+🌙 Night      11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       39 commits     ███████░░░░░░░░░░░░░░░░░░   29.55% 
+Tuesday      15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
+Wednesday    28 commits     █████░░░░░░░░░░░░░░░░░░░░   21.21% 
+Thursday     10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
+Friday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27% 
+Saturday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.79% 
+Sunday       32 commits     ██████░░░░░░░░░░░░░░░░░░░   24.24%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Guatemala
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -84,7 +126,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Jocagi/Jocagi/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 12:26:47 UTC
+ Last Updated on 05/09/2022 12:28:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
