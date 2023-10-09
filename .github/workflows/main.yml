@@ -47,7 +47,7 @@ jobs:
           SHOW_TIME: true # Optional: Show time spent on each language
           SHOW_TOTAL: true # Optional: Show total time spent
           SHOW_MASKED_TIME: false # Optional: Show masked time (if you want to hide some data)
-          STOP_AT_OTHER: true # Optional: Stop showing data when reaching "Other" languages
+          STOP_AT_OTHER: false # Optional: Stop showing data when reaching "Other" languages
           ### commit
           COMMITTER_NAME: GitHubActionBot # Optional: Customize the committer's name
           COMMITTER_EMAIL: action-bot@github.com # Optional: Customize the committer's email
