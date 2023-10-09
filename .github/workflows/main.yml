@@ -3,10 +3,11 @@ name: Waka Readme
 on:
   schedule:
     # Runs at 12am IST (replace with your preferred schedule)
-    - cron: '0 0 * * *'  # Adjust the cron schedule as needed
+    - cron: '0 12 * * *'  # Adjust the cron schedule as needed
   push:
     branches:
       - main  # Specify the branch you want to trigger the workflow on
+      - master  
 
 jobs:
   update-readme:
