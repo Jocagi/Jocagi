@@ -2,28 +2,51 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '0 12 * * *'
+    # Runs at 12am IST (replace with your preferred schedule)
+    - cron: '0 0 * * *'  # Adjust the cron schedule as needed
+  push:
+    branches:
+      - main  # Specify the branch you want to trigger the workflow on
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+
     steps:
-      - uses: athul/waka-readme@master
-        with:          
-          # GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+      - name: Check Workflow Trigger
+        run: |
+          if [[ "${{ github.event_name }}" == 'schedule' ]]; then
+            echo "This workflow was triggered by a schedule."
+          elif [[ "${{ github.event_name }}" == 'push' ]]; then
+            echo "This workflow was triggered by a push."
+            if [[ ${{ github.actor }} == 'github-actions[bot]' ]]; then
+              echo "This workflow was triggered by the GitHub Actions bot. Skipping further steps to prevent a loop."
+              exit 0
+            fi
+          else
+            echo "This workflow was triggered by an unknown event."
+          fi
+    
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Update Waka Readme
+        id: waka-readme
+        uses: athul/waka-readme@master
+        with:
+          # GH_TOKEN: ${{ secrets.GH_TOKEN }} # Optional: Uncomment if your readme is not in your profile
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # Required: You should have a secret named "WAKATIME_API_KEY" with your WakaTime API key
           ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
+          API_BASE_URL: https://wakatime.com/api # Optional: You can change this if needed
           ### content
-          SHOW_TITLE: true # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
+          SHOW_TITLE: true # Optional: Show title in the generated readme
+          TIME_RANGE: all_time # Optional: Specify the time range you want to show
+          LANG_COUNT: 10 # Optional: Number of languages to show
+          SHOW_TIME: true # Optional: Show time spent on each language
+          SHOW_TOTAL: true # Optional: Show total time spent
+          SHOW_MASKED_TIME: false # Optional: Show masked time (if you want to hide some data)
+          STOP_AT_OTHER: true # Optional: Stop showing data when reaching "Other" languages
           ### commit
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
+          COMMITTER_NAME: GitHubActionBot # Optional: Customize the committer's name
+          COMMITTER_EMAIL: action-bot@github.com # Optional: Customize the committer's email
