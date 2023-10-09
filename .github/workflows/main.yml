@@ -34,9 +34,9 @@ jobs:
 
       - name: Update Waka Readme
         id: waka-readme
-        uses: anmol098/waka-readme-stats@master
+        uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # Optional: Uncomment if your readme is not in your profile
+          # GH_TOKEN: ${{ secrets.GH_TOKEN }} # Optional: Uncomment if your readme is not in your profile
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # Required: You should have a secret named "WAKATIME_API_KEY" with your WakaTime API key
           ### meta
           API_BASE_URL: https://wakatime.com/api # Optional: You can change this if needed
