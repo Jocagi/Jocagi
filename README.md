@@ -51,82 +51,16 @@ public class Me
 <br><p align="left"> <img src="https://komarev.com/ghpvc/?username=jocagi" alt="jocagi" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2049%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30%20Million%20lines%20of%20code-blue)
+```txt
+From: 25 October 2020 - To: 09 October 2023
 
-**🐱 My GitHub Data** 
+Total Time: 163 hrs 11 mins
 
-> 🏆 21 Contributions in the Year 2022
- > 
-> 📦 635.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 49 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-🌆 Daytime    32 commits     ██████░░░░░░░░░░░░░░░░░░░   24.24% 
-🌃 Evening    77 commits     ██████████████░░░░░░░░░░░   58.33% 
-🌙 Night      11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       39 commits     ███████░░░░░░░░░░░░░░░░░░   29.55% 
-Tuesday      15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
-Wednesday    28 commits     █████░░░░░░░░░░░░░░░░░░░░   21.21% 
-Thursday     10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
-Friday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27% 
-Saturday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.79% 
-Sunday       32 commits     ██████░░░░░░░░░░░░░░░░░░░   24.24%
-
+C#                         44 hrs 11 mins  ██████░░░░░░░░░░░░░░░░░░░   23.89 %
+Other                      21 hrs 47 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Guatemala
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in C#** 
-
-```text
-C#                       24 repos            ███████████░░░░░░░░░░░░░░   45.28% 
-C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
-Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
-TSQL                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.55% 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.66%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Jocagi/Jocagi/master/charts/bar_graph.png) 
-
-
- Last Updated on 19/09/2022 12:36:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
