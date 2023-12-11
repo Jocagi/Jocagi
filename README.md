@@ -53,9 +53,9 @@ public class Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2020 - To: 09 December 2023
+From: 25 October 2020 - To: 10 December 2023
 
-Total Time: 262 hrs
+Total Time: 262 hrs 1 min
 
 Python                     95 hrs 5 mins   ███████▓░░░░░░░░░░░░░░░░░   30.19 %
 Other                      52 hrs 59 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
