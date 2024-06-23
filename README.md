@@ -53,14 +53,14 @@ public class Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2020 - To: 22 June 2024
+From: 25 October 2020 - To: 23 June 2024
 
-Total Time: 498 hrs 4 mins
+Total Time: 498 hrs 22 mins
 
-Python                     233 hrs 51 mins ██████████▒░░░░░░░░░░░░░░   41.92 %
-SQL                        76 hrs 5 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
+Python                     233 hrs 51 mins ██████████▒░░░░░░░░░░░░░░   41.90 %
+SQL                        76 hrs 5 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
 Other                      59 hrs 45 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
-C#                         49 hrs 12 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+C#                         49 hrs 30 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
 NASM                       21 hrs 37 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
 TypeScript                 18 hrs 37 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 Terraform                  12 hrs 42 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
