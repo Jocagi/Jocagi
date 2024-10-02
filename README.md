@@ -53,20 +53,20 @@ public class Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2020 - To: 30 September 2024
+From: 25 October 2020 - To: 02 October 2024
 
-Total Time: 500 hrs 53 mins
+Total Time: 501 hrs 4 mins
 
-Python                     234 hrs 23 mins ██████████▒░░░░░░░░░░░░░░   41.80 %
-SQL                        76 hrs 18 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
-Other                      59 hrs 48 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
+Python                     234 hrs 23 mins ██████████▒░░░░░░░░░░░░░░   41.79 %
+SQL                        76 hrs 18 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
+Other                      59 hrs 48 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
 C#                         49 hrs 30 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
 NASM                       21 hrs 37 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
 TypeScript                 18 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-Terraform                  12 hrs 42 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Terraform                  12 hrs 42 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 HTML                       11 hrs 46 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 PHP                        9 hrs 49 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-JSON                       9 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+JSON                       9 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
