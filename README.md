@@ -53,20 +53,20 @@ public class Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2020 - To: 28 October 2024
+From: 25 October 2020 - To: 29 October 2024
 
-Total Time: 580 hrs
+Total Time: 581 hrs 3 mins
 
-Python                     234 hrs 58 mins █████████░░░░░░░░░░░░░░░░   36.43 %
-SQL                        84 hrs 43 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
-C#                         66 hrs 45 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
-Other                      64 hrs 59 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+Python                     235 hrs 12 mins █████████░░░░░░░░░░░░░░░░   36.41 %
+SQL                        84 hrs 43 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+C#                         66 hrs 45 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+Other                      64 hrs 59 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
 NASM                       21 hrs 37 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-TypeScript                 18 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+TypeScript                 18 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 HTML                       17 hrs 57 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-ASP.NET                    13 hrs 28 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+ASP.NET                    13 hrs 28 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 Terraform                  12 hrs 42 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-JSON                       11 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+JSON                       11 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
