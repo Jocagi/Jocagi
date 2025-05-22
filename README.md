@@ -53,14 +53,14 @@ public class Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2020 - To: 21 May 2025
+From: 25 October 2020 - To: 22 May 2025
 
-Total Time: 797 hrs 3 mins
+Total Time: 797 hrs 17 mins
 
-Python                     243 hrs 45 mins ███████░░░░░░░░░░░░░░░░░░   28.21 %
+Python                     243 hrs 45 mins ███████░░░░░░░░░░░░░░░░░░   28.20 %
 SQL                        157 hrs 33 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
 C#                         109 hrs 4 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-Other                      67 hrs 10 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+Other                      67 hrs 11 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
 C++                        65 hrs 56 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
 HTML                       24 hrs 19 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 NASM                       21 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
