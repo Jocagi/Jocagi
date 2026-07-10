@@ -53,7 +53,7 @@ public class Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2020 - To: 09 July 2026
+From: 25 October 2020 - To: 10 July 2026
 
 Total Time: 1,159 hrs 18 mins
 
