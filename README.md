@@ -53,16 +53,16 @@ public class Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2020 - To: 14 August 2026
+From: 25 October 2020 - To: 15 August 2026
 
-Total Time: 1,168 hrs 55 mins
+Total Time: 1,169 hrs 40 mins
 
-SQL                        354 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   28.26 %
-Python                     346 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.61 %
-C#                         115 hrs 28 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+SQL                        354 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.26 %
+Python                     346 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.59 %
+C#                         115 hrs 28 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
 Other                      85 hrs 35 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-C++                        66 hrs 4 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-HTML                       40 hrs 46 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+C++                        66 hrs 4 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+HTML                       41 hrs 1 min          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
 PlantUML                   25 hrs 38 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 NASM                       21 hrs 37 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 TypeScript                 19 hrs 17 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
